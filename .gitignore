@@ -1,0 +1,5 @@
+*.o
+isodir
+kernel
+test.iso
+
